@@ -1,7 +1,8 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    max-width: max-content;
+    margin: auto;
 }
 
 #numHead{
